@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tbcrafay
 - 👀 I’m interested in Software Engineering
 - Language: Python, Java, Javascript.
-- Frameworks: I have worked with Django, Servlet, and Springboot.
+- Frameworks: I have worked with Flask, Django, Servlet, and Springboot.
 - Programming concepts: Programming fundamentals, OOP and currently learning Data Structures and Algorithm. 
 - 📫 How to reach me : 
 * Github:  https://github.com/tbcrafay 
